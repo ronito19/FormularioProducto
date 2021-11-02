@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormularioProducto</string>
+    <string name="formulario_de_producto">Formulario de Producto</string>
+    <string name="identificador_de_producto">Identificador de Producto</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Telefono</string>
+    <string name="identificador_de_producto">Identificador de Producto</string>
+    <string name="tipo_de_envio">Tipo de Envio</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="envio_urgente_5">Envio Urgente 5€</string>
+    <string name="envio_normal_4">Envio Normal 4€</string>
+    <string name="envio_lento_3">Envio Lento 3€</string>
+</resources>
